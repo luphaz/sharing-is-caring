@@ -23,10 +23,10 @@ L'application est simple, efficace, pas de fioritures, #WorksForMe #TakeMyMoney
 
 ## Offres disponibles en Novembre 2024 (au moment de ma souscription chez Octopus Energy)
 
-| Offre                                                         | Compteur | Coût abonnement | Coût kWh | Expiration | Prix bloqué | Qui l'augmente   |
-| ------------------------------------------------------------- | -------- | --------------- | -------- | ---------- | ----------- | ---------------- |
-| [Octopus Éco-Fixe](https://luphaz.short.gy/octopus-elec-2411) | 12kVA    | 19,04 €         | 0,2018 € | 11/2025    | 1 an        | Octopus          |
-| [EDF Tarif bleu](https://luphaz.short.gy/edf-tarif-bleu-2411) | 12kVA    | 19,04 €         | 0,2516 € | 01/2025    | 6 mois      | ~le gouvernement |
+| Offre                                                                         | Compteur | Coût abonnement | Coût kWh | Expiration | Prix bloqué | Qui l'augmente   |
+| ----------------------------------------------------------------------------- | -------- | --------------- | -------- | ---------- | ----------- | ---------------- |
+| [Octopus Éco-Conso fixe](https://go.luphaz.io//octopus-eco-conso-fixe-202405) | 12kVA    | 19,04 €         | 0,2018 € | 11/2025    | 1 an        | Octopus          |
+| [EDF Tarif bleu](https://go.luphaz.io//edf-tarif-bleu-202411)                 | 12kVA    | 19,04 €         | 0,2516 € | 01/2025    | 6 mois      | ~le gouvernement |
 
 ## Pourquoi changer de fournisseur d'électricité?
 
@@ -35,11 +35,11 @@ La principale différence entre les deux offres présentées ci-dessus, hormis l
 - Octopus Energy fait évoluer son prix pour rester compétitif
 - EDF fait évoluer le prix pour suivre les évolutions du marché ET les contraintes fixées par le gouvernement (qui peut donc augmenter le prix à sa guise pour des raisons politiques, budgétaires, pas forcément liées au marché)
 
-Ce n'est pas moi qui le dit, [c'est EDF](https://luphaz.short.gy/edf-tarif-reglemente)
+Ce n'est pas moi qui le dit, [c'est EDF](https://go.luphaz.io//edf-tarif-reglemente)
 
 En février 2025, bonne nouvelle le gouvernement a décidé de faire baisser les tarifs de l'électricité!
 
-- Plus d'informations chez [HelloWatt ici](https://luphaz.short.gy/hellowatt-baisse-tarif-fev-2025)
+- Plus d'informations chez [HelloWatt ici](https://go.luphaz.io//hellowatt-tarif-elec-202502)
 
 Enfin presque...
 
@@ -47,11 +47,11 @@ Ces tarifs incluent une baisse sur le prix du kWh et une augmentation sur le pri
 
 ## Février 2025, les offres disponibles
 
-| Offre                                                                     | abonnement | kWh                                 |
-| ------------------------------------------------------------------------- | ---------- | ----------------------------------- |
-| [Octopus Éco-Boost](https://luphaz.short.gy/octopus-tarifs-202502)        | 20,65 €    | 0,1855 € < 1500kWh < 0,2016 €       |
-| [Intelligent Octopus](https://luphaz.short.gy/octopus-intelligent-202501) | 20,86 €    | 0,2016 € / 0,08 € (~charge pilotée) |
-| EDF Tarif bleu                                                            | 19,16 €    | 0,2016 €                            |
+| Offre                                                                       | abonnement | kWh                                 |
+| --------------------------------------------------------------------------- | ---------- | ----------------------------------- |
+| [Octopus Éco-Boost](https://go.luphaz.io//octopus-offre-elec-tarifs-202501) | 20,65 €    | 0,1855 € < 1500kWh < 0,2016 €       |
+| [Intelligent Octopus](https://go.luphaz.io//intelligent-octopus-202501)     | 20,86 €    | 0,2016 € / 0,08 € (~charge pilotée) |
+| EDF Tarif bleu                                                              | 19,16 €    | 0,2016 €                            |
 
 Bon, c'est plus aussi simple maintenant...
 
@@ -296,7 +296,7 @@ Donc, tarif réglementé "actuel" de 0,2516€/kWh, et soit disant j'aurais sous
 
 L'offre n'existait même pas alors
 
-- La preuve ici: [Octopus Energy - Tarifs Novembre 2024](https://luphaz.short.gy/octopus-offre-202409)
+- La preuve ici: [Octopus Energy - Tarifs Novembre 2024](https://go.luphaz.io//octopus-offre-elec-tarifs-202409)
 
 > Le web c'est bien, ça garde des traces, et ça permet de vérifier les dires des autres 😏
 
