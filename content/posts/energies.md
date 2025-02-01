@@ -35,11 +35,11 @@ La principale différence entre les deux offres présentées ci-dessus, hormis l
 - Octopus Energy fait évoluer son prix pour rester compétitif
 - EDF fait évoluer le prix pour suivre les évolutions du marché ET les contraintes fixées par le gouvernement (qui peut donc augmenter le prix à sa guise pour des raisons politiques, budgétaires, pas forcément liées au marché)
 
-Ce n'est pas moi qui le dit, [c'est EDF](https://particulier.edf.fr/fr/accueil/guide-energie/electricite/tarif-reglemente-electricite-offre-de-marche.html)
+Ce n'est pas moi qui le dit, [c'est EDF](https://luphaz.short.gy/edf-tarif-reglemente)
 
 En février 2025, bonne nouvelle le gouvernement a décidé de faire baisser les tarifs de l'électricité!
 
-- Plus d'informations chez [HelloWatt ici](https://www.hellowatt.fr/blog/fevrier-2025-prix-electricite/)
+- Plus d'informations chez [HelloWatt ici](https://luphaz.short.gy/hellowatt-baisse-tarif-fev-2025)
 
 Enfin presque...
 
@@ -47,11 +47,11 @@ Ces tarifs incluent une baisse sur le prix du kWh et une augmentation sur le pri
 
 ## Février 2025, les offres disponibles
 
-| Offre                                                               | abonnement | kWh                                 |
-| ------------------------------------------------------------------- | ---------- | ----------------------------------- |
-| [Octopus Éco-Boost](https://luphaz.short.gy/octopus-tarifs-202502)  | 20,65 €    | 0,1855 € < 1500kWh < 0,2016 €       |
-| [Intelligent Octpus](https://luphaz.short.gy/octopus-tarifs-202502) | 20,86 €    | 0,2016 € / 0,08 € (~charge pilotée) |
-| EDF Tarif bleu                                                      | 19,16 €    | 0,2016 €                            |
+| Offre                                                                     | abonnement | kWh                                 |
+| ------------------------------------------------------------------------- | ---------- | ----------------------------------- |
+| [Octopus Éco-Boost](https://luphaz.short.gy/octopus-tarifs-202502)        | 20,65 €    | 0,1855 € < 1500kWh < 0,2016 €       |
+| [Intelligent Octopus](https://luphaz.short.gy/octopus-intelligent-202501) | 20,86 €    | 0,2016 € / 0,08 € (~charge pilotée) |
+| EDF Tarif bleu                                                            | 19,16 €    | 0,2016 €                            |
 
 Bon, c'est plus aussi simple maintenant...
 
@@ -162,7 +162,7 @@ Changer d'offre et rester chez Ekwateur? Changer d'offre et aller chez un autre 
 
 En tout, 6 appels sont dans l'historique de mon téléphone... En réalité j'oublie donc encore un appel...
 
-En même temps l'adresse de leur service client c'est [Nous on réponds](nous-on-reponds@ekwateur.fr), j'aurais du me méfier...
+En même temps l'adresse de leur service client c'est [Nous on réponds](mailto:nous-on-reponds@ekwateur.fr), j'aurais du me méfier...
 
 Il y a quand même un points positif
 
