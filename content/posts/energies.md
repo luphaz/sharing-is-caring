@@ -6,7 +6,7 @@ title = "Changer de fournisseur d'énergies"
 
 ## Pourquoi changer?
 
-Il y a quelques mois (~Juin 2024), j'ai décidé de changer de fournisseur d'électricité (EDF vers Ekwateur), de mode de tarification (Heure Pleine/Heure Creuse vers Base), et de mode de production (mixte vers énergie renouvelable).
+Il y a quelques mois (Avril 2024), j'ai décidé de changer de fournisseur d'électricité (EDF vers Ekwateur), de mode de tarification (Heure Pleine/Heure Creuse vers Base), et de mode de production (mixte vers énergie renouvelable).
 
 > Spoiler: je ne suis plus chez Ekwateur, mais je suis toujours en tarification Base et en énergie renouvelable...
 
@@ -69,7 +69,7 @@ Quoi qu'il en soit le changement est simple, rapide, et sans frais.
 
 L'offre d'Octopus est sans engagement, et sans frais de résiliation, et l'offre Éco-Boost est moins chère que l'offre du tarif bleu d'EDF.
 
-Allez, un petit calcul rapide, si vous consommez moins de 1500kWh par mois (comme moi)
+Allez, un petit calcul rapide, si vous consommez en hiver 1500kWh par mois (comme moi)
 
 - Octopus Éco-Boost: 20,65€ + 1500 \* 0,1855€ = 20,65€ + 278,25€ = **298,90€**
 - EDF Tarif bleu: 19,16€ + 1500 \* 0,2016€ = 19,16€ + 302,40€ = **321,56€**
@@ -79,7 +79,7 @@ Allez, un petit calcul rapide, si vous consommez moins de 1500kWh par mois (comm
 
 ### EDF Le fournisseur historique, le choix par défaut
 
-J'ai acheté ma maison en août 2023, j'ai alors souscrit aux offres suivantes
+J'ai acheté ma maison en août 2023, j'ai alors souscris aux offres suivantes
 
 | Énergie     | Offre                                 | aabonnement | kWh                      |
 | ----------- | ------------------------------------- | ----------- | ------------------------ |
@@ -119,7 +119,12 @@ Je n'ai pas souscrit à l'offre gaz 100% renouvelable, car je savais déjà que 
 
 > Spoiler: ça ne l'était pas.
 
-#### Les hausses de tarifs
+Et quand je csis un pari généralement c'est comme au poker All-In. 
+J'ai souscrit à l'offre dont le prix change mensuellement. 
+
+Donc, chaque fin de mois, je recevais le détail de l'offre du mois à venir.
+
+#### Les changements de tarif mensuel
 
 L'intitulé des offres ne change pas, mais les tarifs oui
 
@@ -142,7 +147,9 @@ L'intitulé des offres ne change pas, mais les tarifs oui
 
 Suite à trois hausses consécutives (octobre, novembre, décembre), et donc une augmentation significative sur le tarif initialement souscrit (0,1973 €)
 
-- 0,2748/0,1973=1,39280284 soit une augmentation de 39,28% sur le tarif initial
+- 0,2748/0,1973=1,39280284
+
+Soit une augmentation de 39,28% sur le tarif initial
 
 ### Je me suis demandé s'il n'était pas temps d'arréter mes conneries, surtout avec les consommations d'hiver à venir 😅
 
@@ -150,7 +157,7 @@ Changer d'offre et rester chez Ekwateur? Changer d'offre et aller chez un autre 
 
 À la souscription (avril à juin), et pour pouvoir effectuer des actions "simples", j'ai du appeler le service client à plusieurs reprises
 
-- plus d'un mois après la date demandé de souscription je n'étais toujours pas basculé chez eKwateur
+- plus d'un mois après la date demandé de souscription n'étais toujours pas basculé chez eKwateur
 - changement du mode de tarification
   - impossible d'effectuer cela depuis l'application ou le site
 - demander le changement du mode de facturation
@@ -159,8 +166,11 @@ Changer d'offre et rester chez Ekwateur? Changer d'offre et aller chez un autre 
   - et donc RAPPELER le service client pour effectuer le changement...
 - effectuer le changement du mode de facturation
 - résilier le contrat de gaz naturel
+- demander pourquoi la consommation n'était pas disponible sur leur application
+  - après plusieurs semaines d'attente sans demander
+  - alors que cette consommation était disponible sur HelloWatt
 
-En tout, 6 appels sont dans l'historique de mon téléphone... En réalité j'oublie donc encore un appel...
+En tout, 6 appels donc.
 
 En même temps l'adresse de leur service client c'est [Nous on réponds](mailto:nous-on-reponds@ekwateur.fr), j'aurais du me méfier...
 
@@ -172,7 +182,7 @@ Mais
 
 - je n'ai pas envie de passer autant de temps au téléphone pour des actions "simples"
 - je n'ai pas envie d'être celui qui doit rappeler pour que les actions soient effectuées
-- je n'ai pas envie de souscrire à une offre qui augmente de 50% en deux mois (même si c'est "logique")
+- je n'ai pas envie de souscrire à une offre qui augmente de 40% en deux mois (même si c'est "logique")
 
 #### Conclusion sur Ekwateur et la tarification variable
 
@@ -184,19 +194,19 @@ Faites le, si vous n'êtes pas satisfait de votre fournisseur actuel, ou si vous
 
 **Si le service que vous avez ne vous convient pas, changez!!!**
 
-#### BONUS: Conseil pour changer de tarification ET de fournisseur
+#### BONUS: Conseil pour changer de tarification (HP/HC vers Base) ET de fournisseur
 
 Regardez bien les coûts associés pour un changements de tarification chez votre fournisseur actuel.
 
 Chez EDF par exemple le premier changement est gratuit (était?), mais les suivants sont facturés.
 
-Préferez donc de changer d'abord de tarification chez EDF, puis passer chez un autre fournisseur.
+Préferez donc changer d'abord de tarification chez EDF, puis passer chez un autre fournisseur.
 
 Ce sera moins couteux, plus rapide et plus simple...
 
 ### Octopus Energy Le fournisseur anglais (numéro deux il me semble), le choix de la simplicité
 
-Bon, franchement ce n'était pas une réussite chez Ekwateur, je ne vais pas rester chez eux, non?
+Bon, franchement ce n'était pas une réussite chez Ekwateur, je ne vais pas rester chez eux...
 
 Donc... J'ai décidé de changer de fournisseur d'électricité, pour aller chez Octopus Energy...
 
@@ -204,7 +214,7 @@ Pas sur que ce soit une meilleure idée, mais je ne suis pas du genre à rester 
 
 J'avais déjà utilisé leur application Electroverse pour trouver les points de charge pour ma voiture électrique, et j'avais trouvé ça bien fait, simple, efficace, et gratuit.
 
-Oui, GRATUIT, contrairement à Chargemap qui faisait payé la carte pour accéder aux bornes de recharge...
+Oui, GRATUIT, contrairement à Chargemap qui faisait payer la carte pour accéder aux bornes de recharge...
 
 Et, les tarifs des points de charges étaient compétitifs, souvent en accord avec les prix de bases pratiqués sans passer par un intermédiaire.
 
@@ -216,13 +226,13 @@ Alors c'est sympa de changer, mais il faut aussi savoir quoi regarder, et pourqu
 
 J'habites une maison de 115m2 construite en 1983.
 
-J'ai changé la chaudière à gaz installée en 1991 par une PAC (Pompe À Chaleur) air/eau en 2024 (premier hiver en 2024/2025 donc).
+J'ai changé la chaudière à gaz installée en 1991 par une PAC (Pompe À Chaleur) air/eau en 2024 (premier hiver avec est donc en 2024/2025 donc).
 
 Je n'ai pas connaissance d'autres travaux d'isolation ou de rénovation énergétique depuis la construction de la maison.
 
 > NB: il me semble que des travaux ont eu lieu dans le garage (isolation du toit à minima) mais je n'ai pas les détails.
 
-La maison possède des radiateurs à eau en fonte de 1983, et un chauffe-eau électrique de 2019.
+La maison possède des radiateurs à eau en fonte de 1983 (moyenne température ~55 degré), et un chauffe-eau électrique de 2019.
 
 J'ai une voiture électrique (Tesla Model 3 d'août 2023) et je travaille la majorité du temps chez moi.
 
@@ -257,7 +267,7 @@ Ils m'ont proposé de faire partie d'une solution technique innovante pour rédu
 
 - en leur donnant la capacité de piloter la charge de ma voiture électrique pour leur permettre de réduire le coût de l'électricité selon leurs critères
 - en me permettant de définir la charge désirée, l'heure de charge désirée
-- en me retribuant pour le service rendu et la contrainte acceptée (8kWh pour les charges optimisées)
+- en me retribuant pour le service rendu et la contrainte acceptée (0,008 euros / kWh pour les charges optimisées)
 
 J'ai essayé, et ça a marché au top du premier coup ⚡️
 
@@ -269,7 +279,7 @@ Je plug, je débranche, je roule, je paye moins cher, et je gagne de l'argent...
 
 Pour pouvoir à continuer à bénéficier de cette solution, il faut que je change de contrat, et donc de tarif...
 
-Je devait passer de l'offre Base à l'offre Éco-Fixe, pour un coût de 19,04€/mois d'abonnement et 0,2018€/kWh.
+Je doit passer de l'offre Éco-Fixe pour un coût de 19,04€/mois d'abonnement et 0,2018€/kWh.
 
 À l'offre Intelligent Octopus, aligné sur le tarif réglementé, et un "bonus" lors de l'utilisation de la charge pilotée.
 
@@ -294,7 +304,7 @@ Le 31 Janvier 2025, je vais sur mon espace client et là suprises, je vois que m
 
 Donc, tarif réglementé "actuel" de 0,2516€/kWh, et soit disant j'aurais souscrit à cette offre le 27 Novembre 2024... La blague...
 
-L'offre n'existait même pas alors
+L'offre n'existait même pas à cette date, tout du moins en France.
 
 - La preuve ici: [Octopus Energy - Tarifs Novembre 2024](https://go.luphaz.io//octopus-offre-elec-tarifs-202409)
 
@@ -304,7 +314,7 @@ J'y retourne donc le 1er Février à 00h18, et là surprise, les tarifs ont chan
 
 Franchement BRAVO, les tarifs EDF Bleu ne sont toujours pas disponible à l'heure où j'écris ces lignes (01h04)... 🤦‍♂
 
-Et Octo️pus Energy, ils sont réactifs, ils sont compétitifs, ils sont éthiques, ils sont simples, ils sont efficaces, ils sont... 🎉
+Octo️pus Energy, ils sont réactifs, ils sont compétitifs, ils sont éthiques, ils sont simples, ils sont efficaces, ils sont... 🎉
 
 Même s'ils ont fait une erreur, je suis sûr qu'ils vont la corriger, ou que l'on va trouver un terrain d'entente.
 
